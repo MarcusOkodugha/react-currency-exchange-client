@@ -2,6 +2,10 @@
 
 A modern React frontend for the currency exchange service.
 
+
+<img width="1912" height="1242" alt="Screenshot 2026-02-15 at 20 11 49" src="https://github.com/user-attachments/assets/b51f0d70-e05d-4945-ab02-4fbf4558adaa" />
+
+
 ## Setup
 
 ```bash
